@@ -1,6 +1,6 @@
 # ROCK_PAPER_SCISSOR_GAME
-GAME
-DEPLOYED LINK =>
+GAME <br>
+DEPLOYED LINK => <br>
                    https://dknama2287.github.io/ROCK_PAPER_SCISSOR_GAME/
 
 How To Play Game : <br> there are following game rules - <br>
