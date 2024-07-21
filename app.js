@@ -83,3 +83,14 @@ choices.forEach((div) =>{
         playgame(userchoice);
     })
 })
+
+let reset = document.querySelector("button");
+
+reset.addEventListener("click" , ()=>{
+    userscore = 0;
+    compScore = 0;
+    msg.innerText = "Play your move \n ( Click on the image above to move )";
+    msg.style.backgroundColor = "#081b31";
+    comptotal.innerText = 0;
+    usertotal.innerText = 0;
+} )
